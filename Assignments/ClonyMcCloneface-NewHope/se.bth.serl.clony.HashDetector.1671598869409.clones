@@ -1,0 +1,29 @@
+Root folder: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant
+Total files/lines scanned: 1196/128219
+Clones of size 60 or larger found: 6
+Largest clone: 213
+
+###Clone size: 213###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 185-397
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 86-298
+
+###Clone size: 167###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 505-671
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 406-572
+
+###Clone size: 158###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 753-910
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 655-812
+
+###Clone size: 157###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.java | 167-323
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/BaseSelectorContainer.java | 173-329
+
+###Clone size: 134###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 2554-2687
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java | 831-963
+
+###Clone size: 94###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 229-322
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 386-477
+

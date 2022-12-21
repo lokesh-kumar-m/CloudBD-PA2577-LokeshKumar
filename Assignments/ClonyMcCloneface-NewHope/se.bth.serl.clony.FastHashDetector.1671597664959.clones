@@ -1,0 +1,200 @@
+Root folder: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant
+Total files/lines scanned: 1196/128219
+Clones of size 20 or larger found: 48
+Largest clone: 213
+
+###Clone size: 213###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 185-397
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 86-298
+
+###Clone size: 167###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 505-671
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 406-572
+
+###Clone size: 158###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 753-910
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 655-812
+
+###Clone size: 157###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.java | 167-323
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/BaseSelectorContainer.java | 173-329
+
+###Clone size: 134###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 2554-2687
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java | 831-963
+
+###Clone size: 113###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java | 180-292
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java | 169-282
+
+###Clone size: 94###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 229-322
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 386-477
+
+###Clone size: 87###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/ExecTask.java | 176-262
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/Java.java | 480-568
+
+###Clone size: 78###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java | 159-236
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java | 182-257
+
+###Clone size: 77###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 974-1050
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 880-956
+
+###Clone size: 67###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/AbstractFileSet.java | 644-710
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.java | 158-225
+
+###Clone size: 64###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java | 310-373
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java | 300-363
+
+###Clone size: 64###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1511-1574
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java | 546-609
+
+###Clone size: 60###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/HeadFilter.java | 114-173
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/TailFilter.java | 114-173
+
+###Clone size: 59###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/AbstractFileSet.java | 652-710
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.java | 167-225
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/BaseSelectorContainer.java | 173-231
+
+###Clone size: 53###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java | 124-176
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java | 121-169
+
+###Clone size: 53###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 450-502
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 351-403
+
+###Clone size: 52###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java | 301-352
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java | 195-246
+
+###Clone size: 52###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1878-1929
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 1267-1318
+
+###Clone size: 48###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1654-1701
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java | 715-762
+
+###Clone size: 46###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/MappingSelector.java | 90-135
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/selectors/PresentSelector.java | 128-173
+
+###Clone size: 45###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2InputStream.java | 603-647
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2InputStream.java | 683-727
+
+###Clone size: 43###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1053-1095
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 959-1001
+
+###Clone size: 43###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/optional/i18n/TranslateTest.java | 53-95
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/types/FilterSetTest.java | 178-221
+
+###Clone size: 42###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1932-1973
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 1321-1362
+
+###Clone size: 40###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1097-1136
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 1003-1042
+
+###Clone size: 39###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/Execute.java | 1043-1081
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/Execute.java | 1102-1140
+
+###Clone size: 38###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/PrefixLines.java | 65-102
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/SuffixLines.java | 66-103
+
+###Clone size: 38###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java | 893-930
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java | 859-896
+
+###Clone size: 37###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/TokenFilter.java | 441-477
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/filters/TokenFilter.java | 509-545
+
+###Clone size: 37###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/XMLCatalog.java | 851-887
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/types/XMLCatalog.java | 1015-1053
+
+###Clone size: 37###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/AntTest.java | 318-354
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/SubAntTest.java | 105-141
+
+###Clone size: 36###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/util/regexp/JakartaOroRegexp.java | 35-70
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpRegexp.java | 48-83
+
+###Clone size: 35###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/util/regexp/Jdk14RegexpMatcherTest.java | 36-70
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/util/regexp/Jdk14RegexpRegexpTest.java | 36-71
+
+###Clone size: 34###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java | 111-144
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java | 123-156
+
+###Clone size: 33###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 407-439
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 308-340
+
+###Clone size: 33###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java | 223-255
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java | 362-394
+
+###Clone size: 32###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/FixCrLfTest.java | 188-219
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/ReplaceTest.java | 98-126
+
+###Clone size: 29###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java | 111-139
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java | 93-120
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java | 123-151
+
+###Clone size: 28###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java | 192-219
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java | 329-356
+
+###Clone size: 28###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/util/ResourceUtils.java | 413-440
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/util/ResourceUtils.java | 464-491
+
+###Clone size: 28###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 42-69
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 77-104
+
+###Clone size: 27###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java | 1979-2005
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java | 1368-1394
+
+###Clone size: 26###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java | 849-874
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java | 815-840
+
+###Clone size: 26###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 332-357
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java | 485-508
+
+###Clone size: 24###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/types/PathTest.java | 201-224
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/types/PathTest.java | 247-270
+
+###Clone size: 22###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 49-70
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 120-141
+
+###Clone size: 21###
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 49-69
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 84-104
+File: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant/ant-1.8.4/src/apache-ant-1.8.4/src/tests/junit/org/apache/tools/ant/taskdefs/DefaultExcludesTest.java | 120-140
+
